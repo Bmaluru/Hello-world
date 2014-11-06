@@ -1,4 +1,7 @@
 Hello-world
 ===========
 
-My first repository
+My first repository.
+
+It feels like I started something.
+
